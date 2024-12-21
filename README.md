@@ -84,4 +84,4 @@ endmodule
 **RESULT**
 
 
- SISO Shift Register using verilog and validating their functionality using their functional tables is verifeid.
+ SISO Shift Register using verilog and validating their functionality using their functional tables is verified.
